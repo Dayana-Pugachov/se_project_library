@@ -60,6 +60,9 @@
   font-size: 20px;
   line-height: 30px;
   margin-top: 32px;
+  margin-bottom: 0;
+  position: relative;
+  z-index: 2;
 }
 
 .header__image {
@@ -233,6 +236,7 @@
   font-size: 14px;
   margin: 0;
 }
+
 .staff {
   padding: 100px 0 140px;
   background-image: url(../images/staff_picks_background.jpg);
@@ -450,6 +454,8 @@
   font-size: 16px;
   line-height: 20px;
   text-decoration: none;
+  display: flex;
+  align-items: center;
 }
 
 .footer__column-link:hover {
