@@ -8,3 +8,12 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+## Projects screenshots
+
+![Home Page](./images/Readme-shot.png "Home page"),
+![Events Page](./images/Readme-shot2.png "Events page")
+
+## You're welcome to visit the page yourself:
+
+[Triple Peaks Library - Here!](https://dayana-pugachov.github.io/se_project_library/)
