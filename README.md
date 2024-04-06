@@ -9,9 +9,9 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 - Positioning
 - Vertical stacking with z-index
 
-## Projects screenshots
+## Project's screenshots
 
-![Home Page](./images/Readme-shot.png "Home page"),
+![Home Page](./images/Readme-shot.png "Home page")
 ![Events Page](./images/Readme-shot2.png "Events page")
 
 ## You're welcome to visit the page yourself:
